@@ -1,4 +1,4 @@
-🛍️ GadgetVerse — The Web3 Phone Accessories Marketplace
+🛍️ GadgetVerse — The Web3 Phone Accessories Marketplace.
 
 GadgetVerse is a decentralized e-commerce platform built on Hedera Hashgraph, designed exclusively for buying and selling phone accessories.
 It combines the simplicity of online shopping with the power of Web3 — enabling secure payments, NFT-based receipts, and smart contract automation using Hedera and HashPack Wallet.
